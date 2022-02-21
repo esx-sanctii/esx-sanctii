@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @esx-sanctii
-- 👀 I’m interested in ... lua dev
-- 🌱 I’m currently learning ... love history
-- 💞️ I’m looking to collaborate on ... ur sister
-- 📫 How to reach me ... santii#8169
-
-<!---
-esx-sanctii/esx-sanctii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I       XX       XX                  X                X     X        I
+I       XXXX     XX                  X                 X   X         I
+I       XX XX    XX                  X          X       X X          I
+I       XX  XX   XX   XXXX   XXXXXX  X                   X           I
+I       XX   XX  XX  X    X  X       XXXXXX     X       X X          I
+I       XX    XX XX  X    X  X       X     X    X      X   X         I
+I       XX     XXXX  X    X  X       X     X    X     X     X        I
+I       XX      XXX   XXXX   X       XXXXXX     X    X       X       I
+                           COPYRIGHT©                                 
